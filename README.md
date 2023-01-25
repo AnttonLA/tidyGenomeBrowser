@@ -32,7 +32,7 @@ some common meta-columns used in Bioconductor (e.g. `score`, `pos`,
 ## Installation
 
 You can install a conda environment with the minimum requirements from the yaml file:  
-`conda env create -f tidygenomebrowser.yml`  
+`conda env create -f tidygenomebrowser.yaml`  
 `conda activate tidygenomebrowser_env`  
  
  Once in R, you can install InteractionSet and the tidyGenomeBrowser itself:
